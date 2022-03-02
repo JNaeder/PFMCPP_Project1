@@ -53,9 +53,12 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 //  1)
 //  Noun:The elevator at work
-//  action 1Close doorsttheElevatorAtWork.closeDoors(););
-//  actio:Open DoorsotheElevatorAtWork.openDoors();e();
-//  actiGo Up theElevatorAtWork.goUp();ood();
+//  action 1:Close doors
+theElevatorAtWork.closeDoors();
+//  action 2:Open 
+theElevatorAtWork.openDoors();
+//  action 3:Go Up
+theElevatorAtWork.goUp();
 
 //  2)
 //  Noun:Computer
