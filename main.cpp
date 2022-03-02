@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:Microwave
+//  action 1:Defrost
+microwave.defrost();
+//  action 2:Popcorn mode
+microwave.popcornMode();
+//  action 3:Heat food
+microwave.heatFood();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:Computer
+//  action 1:Boot up
+computer.bootUp();
+//  action 2:Shut down
+computer.shutDown();
+//  action 3:Restart
+computer.restart();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Label Maker
+//  action 1:Print out label
+labelMaker.printOutLabel();
+//  action 2:Cut label
+labelMaker.cutLabel();
+//  action 3:Show low battery message
+labelMaker.showLowBatteryMessage();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:My Cat
+//  action 1:Meow
+myCat.meow();
+//  action 2:Ask for food
+myCat.askForFood();
+//  action 3:know over object on table
+myCat.knockOverObjectOnTable();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:Cd Player
+//  action 1:Play song
+cdPlayer.playSong();
+//  action 2:Pause song
+cdPlayer.pauseSong();
+//  action 3:Play next song
+cdPlayer.playNextSong();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Vending Machine
+//  action 1:Dispense Item
+vendingMachine.dispenseItem();
+//  action 2:Take Money
+vendingMachine.takeMoney();
+//  action 3:Show insufficient funds message
+vendingMachine.showInsufficientFundsMessage();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:TV
+//  action 1:Power on
+tv.powerOn();
+//  action 2:Change channel
+tv.changeChannel();
+//  action 3:Switch input
+tv.switchInput();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:Car
+//  action 1:honk
+car.honk();
+//  action 2:turn blinker on
+car.turnBlinkerOn();
+//  action 3:reverse
+car.reverse();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Sun
+//  action 1:rise
+sun.rise();
+//  action 2:shine
+sun.shine();
+//  action 3:set
+sun.set();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:Plant
+//  action 1:Photosynthesize
+plant.photosynthesize();
+//  action 2:Grow
+plant.grow();
+//  action 3:Consume water
+plant.consumeWater();
 
 
 #endif
