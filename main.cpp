@@ -52,13 +52,10 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:Microwave
-//  action 1:Defrost
-microwave.defrost();
-//  action 2:Popcorn mode
-microwave.popcornMode();
-//  action 3:Heat food
-microwave.heatFood();
+//  Noun:The elevator at work
+//  action 1Close doorsttheElevatorAtWork.closeDoors(););
+//  actio:Open DoorsotheElevatorAtWork.openDoors();e();
+//  actiGo Up theElevatorAtWork.goUp();ood();
 
 //  2)
 //  Noun:Computer
